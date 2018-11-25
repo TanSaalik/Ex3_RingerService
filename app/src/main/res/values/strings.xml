@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Ex3_RingService</string>
+    <string name="startRinging">Start Ringing</string>
+    <string name="stopRinging">Stop Ringing</string>
+</resources>
